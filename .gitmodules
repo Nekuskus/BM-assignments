@@ -1,0 +1,15 @@
+[submodule "Zegar"]
+	path = Zegar
+	url = https://github.com/Nekuskus/Zegar-SVG
+[submodule "Blender"]
+	path = Blender
+	url = https://github.com/Nekuskus/Blender
+[submodule "wykres_kolowy"]
+	path = wykres_kolowy
+	url = https://github.com/Nekuskus/wykres-kolowy
+[submodule "inicjaly"]
+	path = inicjaly
+	url = https://github.com/Nekuskus/symbol-render
+[submodule "JSONGenerator"]
+	path = JSONGenerator
+	url = https://github.com/Nekuskus/table-json-generator
