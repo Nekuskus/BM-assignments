@@ -13,3 +13,6 @@
 [submodule "JSONGenerator"]
 	path = JSONGenerator
 	url = https://github.com/Nekuskus/table-json-generator
+[submodule "ftp-showcase"]
+	path = ftp-showcase
+	url = https://github.com/Nekuskus/PHP--FTP-Shell
