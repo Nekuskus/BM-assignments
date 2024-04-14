@@ -16,3 +16,6 @@
 [submodule "ftp-showcase"]
 	path = ftp-showcase
 	url = https://github.com/Nekuskus/PHP--FTP-Shell
+[submodule "php-battleships"]
+	path = php-battleships
+	url = https://github.com/Nekuskus/PHP-Battleships.git
